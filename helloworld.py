@@ -1,3 +1,3 @@
 
 print('hello world')
-print(9)
+print(2)
